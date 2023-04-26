@@ -22,7 +22,11 @@
 	height:100%;
 	flex-direction:column;
 }
-h4{
+h3{
+	font-size:150%;
+	text-align:center;
+}
+h2{
 	font-size:150%;
 	text-align:center;
 }
