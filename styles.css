@@ -15,7 +15,7 @@
 	flex-direction:row;
 	margin: 10px;
 }
-.Latest-News{
+.latest-news-section{
 	display:flex;
 	background: white;
 	width: 30%;
@@ -46,7 +46,7 @@ li{
 p{
 	font-size:100%;
 }
-.pictorial-news{
+.pictorial-news-section{
 	display:flex;
 	background: white;
 	width: 30%;
