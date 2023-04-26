@@ -1,1 +1,52 @@
 /*  your css code here. If applicable */
+:root{
+	background:aliceblue;
+	font-family:sans-serif;
+}
+.heading{
+	background:darkslategray;
+	color:white;
+	text-align:center;
+	font-size:10px;
+	padding: 5px
+}
+.container{
+	display:flex;
+	flex-direction:row;
+	margin: 10px;
+}
+.Latest-News{
+	display:flex;
+	background: white;
+	width: 30%;
+	height:100%;
+	flex-direction:column;
+}
+h4{
+	font-size:150%;
+	text-align:center;
+}
+li{
+	font-size:100%;
+	align-content: center;
+}
+
+.main-article{
+	display:flex;
+	background: white;
+	width: 40%;
+	height:100%;
+	flex-direction:column;
+	margin-left:10px
+}
+p{
+	font-size:100%;
+}
+.pictorial-news{
+	display:flex;
+	background: white;
+	width: 30%;
+	height:100%;
+	flex-direction:column;
+	margin-left:10px
+}
